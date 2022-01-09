@@ -34,3 +34,12 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
   background: #6649b8;
 }
+
+.navbar {
+  width: 5rem;
+  height: 100vh;
+  /*fixed so nav won't move when user scrolls*/
+  position: fixed;
+  /*Utilizicing one my css variables*/
+  background-color: var(--bg-primary);
+}
