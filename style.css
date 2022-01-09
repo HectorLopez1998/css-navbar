@@ -33,6 +33,7 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
   background: #6649b8;
+<<<<<<< HEAD
 }
 
 .navbar {
@@ -42,4 +43,6 @@ body::-webkit-scrollbar-thumb {
   position: fixed;
   /*Utilizicing one my css variables*/
   background-color: var(--bg-primary);
+=======
+>>>>>>> b485a14e3fe1db385f5789b78f861f5d71189052
 }
